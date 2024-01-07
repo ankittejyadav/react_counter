@@ -1,8 +1,7 @@
-# React + Vite
+# Counter Website built in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This Website is live at - https://ankit-react-counter.netlify.app
+<br />
+<img width="475" alt="Screenshot 2024-01-07 at 3 09 38 PM" src="https://github.com/ankittejyadav/react_counter/assets/22706443/d6e8fd01-76a1-4d2e-81bd-2de82bd5a3f4">
+<br />
+Used useEffect Hook
